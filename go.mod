@@ -16,7 +16,7 @@ require (
 	github.com/google/uuid v1.1.4
 	github.com/gorilla/mux v1.8.0
 	github.com/imdario/mergo v0.3.11
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/robfig/cron v0.0.0-20180505203441-b41be1df6967
 	github.com/stretchr/testify v1.6.1
 	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
